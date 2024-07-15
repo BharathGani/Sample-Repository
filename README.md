@@ -1,2 +1,3 @@
 # Sample-Repository
-This is first git repository
+This is first Git Repository<br>
+Welcome to Git concept.
